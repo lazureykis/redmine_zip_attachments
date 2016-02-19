@@ -1,3 +1,3 @@
-# English strings go here for Rails i18n
 en:
-  # my_label: "My label"
+  permission_download_zipped_attachments: Download zipped attachments
+  button_download_as_zip: Download as zip archive

@@ -1,0 +1,3 @@
+<% if issue.attachments.present? %>
+<%= link_to l(:button_download_as_zip), download_zipped_attachments_issue_path(issue), class: 'icon icon-attachment' %>
+<% end %>
